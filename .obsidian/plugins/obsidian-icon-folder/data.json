@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🎬",
+      "📮",
+      "👤"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "_technical/_templates/_person.md": "👤",
+  "_technical/_templates/_video.md": "🎬",
+  "База/Видео/Видео-расследование Казначей.md": "🎬",
+  "База/Видео/Ответ ФБК на расследование Казначей.md": "🎬",
+  "База/Личности/Максим Кац.md": "👤",
+  "База/Личности/Мария Певчих.md": "👤",
+  "База/Личности/Иван Жданов.md": "👤",
+  "База/Личности/Александр Железняк.md": "👤",
+  "База/Личности/Сергей Леонтьев.md": "👤",
+  "База/Личности/Георгий Албуров.md": "👤",
+  "База/Личности/Леонид Волков.md": "👤",
+  "База/Личности/Алексей Навальный.md": "👤",
+  "База/Личности/Юлия Навальная.md": "👤"
+}

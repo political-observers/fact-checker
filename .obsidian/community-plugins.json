@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "advanced-canvas",
   "obsidian-banners",
   "obsidian-smart-typography",
@@ -7,6 +6,10 @@
   "obsidian-file-color",
   "highlightr-plugin",
   "obsidian-outliner",
-  "obsidian-timeline",
-  "obsidian-thumbnails"
+  "obsidian-thumbnails",
+  "dataview",
+  "obsidian-projects",
+  "obsidian-icon-folder",
+  "editing-toolbar",
+  "markwhen"
 ]

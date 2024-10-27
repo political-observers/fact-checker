@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "в": "checkbox",
+    "Тип": "multitext",
+    "Дата": "datetime",
+    "Дата публикации": "datetime",
+    "Когда": "date"
+  }
+}
