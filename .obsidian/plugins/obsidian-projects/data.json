@@ -12,7 +12,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "_videos",
+          "path": "База/Видео",
           "recursive": false
         }
       },
@@ -36,7 +36,7 @@
         }
       ],
       "id": "b1d9f31f-c292-4b6d-aaf2-bb5e9ed41d61",
-      "name": "Videos"
+      "name": "Видео"
     },
     {
       "fieldConfig": {},
@@ -49,7 +49,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "_persons",
+          "path": "База/Личности",
           "recursive": false
         }
       },
@@ -92,7 +92,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "_sources",
+          "path": "База/Источники",
           "recursive": false
         }
       },
@@ -116,7 +116,159 @@
         }
       ],
       "id": "6c3d496e-428f-4414-a537-4829404e6b49",
-      "name": "Sources"
+      "name": "Источники"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "База/Сущности",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f7924ca4-7a23-4cba-96c0-cea53f2448e3",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "c0899fc1-1ecc-4f7c-a88a-3134e3e42ce5",
+      "name": "Сущности"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "_technical/_templates/_quote.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "База/Цитаты",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5ea5f6c6-fb2b-4cad-8b6a-dd81607f2015",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "0622bce2-bd6b-48c9-8650-cefe016e709d",
+      "name": "Цитаты"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "_technical/_templates/_web-archives.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "База/Веб-архивы",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "85b39fc5-08c3-4b32-b02e-fa4006f99550",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "7eb24e8f-0b77-41e1-998c-1b139a4b55c9",
+      "name": "Веб-архивы"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "_technical/_templates/_material.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "База/Материалы",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 229
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4a382c1d-a9b8-41c0-a805-5ba8abff5e83",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "757acdeb-02e0-4f7d-92fd-2fbe124e4177",
+      "name": "Материалы"
     }
   ],
   "archives": [],
