@@ -8,17 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ce4159ca91034eb",
+            "id": "24a0219fed76202c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База/События/Пробизнесбанк прекратил деятельность.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Пробизнесбанк прекратил деятельность"
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -41,9 +35,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              }
             }
           },
           {
@@ -58,9 +50,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Поиск"
+              }
             }
           },
           {
@@ -68,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_persons/Личности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +88,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Личности"
+              }
             }
           },
           {
@@ -112,12 +97,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_persons/Личности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Личности"
+              }
             }
           },
           {
@@ -128,9 +110,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
+              }
             }
           },
           {
@@ -138,11 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "База/События/Пробизнесбанк прекратил деятельность.md"
-              },
-              "icon": "lucide-list",
-              "title": "Структура Пробизнесбанк прекратил деятельность"
+              "state": {}
             }
           },
           {
@@ -154,9 +130,7 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Все свойства"
+              }
             }
           }
         ],
@@ -168,27 +142,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-projects:Open projects": false,
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "0ce4159ca91034eb",
+  "active": "24a0219fed76202c",
   "lastOpenFiles": [
-    "Markwhen/Timeline.mw",
+    "База/Сущности/Финансовая группа Лайф.md",
+    "База/События/Выход расследования Казначей.md",
+    "База/Источники/YouTube канал Навальный Live.md",
+    "База/Источники/YouTube канал Максим Кац.md",
+    "Утилитарные статьи/Структура статей.md",
+    "Статьи/ФБК-Кац-Железняк/ФБК-Кац-Железняк нарратив.md",
+    "Статьи/ФБК-Кац-Железняк",
+    "Статьи/ФБК-Кац-Железняк нарратив.md",
+    "Статьи/КТ - ФБК занимаются отмыванием репутации воров.md",
+    "Статьи/ФБК-Кац-Железняк/НС - ФБК занимаются отмыванием репутации воров.md",
+    "Утилитарные статьи",
     "База/События/Пробизнесбанк прекратил деятельность.md",
+    "Markwhen/Timeline.mw",
     "Markwhen/Markwhen 10-28-2024 02.43.52.mw",
     "Markwhen/Markwhen 10-28-2024 02.43.56.mw",
     "2015-08-12.md",
     "Markwhen",
     "База/События/Выход расследования \"Казначей\".md",
-    "Статьи/ФБК-Кац-Железняк/ФБК-Кац-Железняк нарратив.md",
     "База/Личности/Александр Железняк.md",
     "2024-10-28.md",
     "База/Видео/Видео-расследование Казначей.md",
@@ -206,15 +189,6 @@
     "База/Личности/Леонид Волков.md",
     "База/Аргументы",
     "_databases/Videos.md",
-    "База/Сущности",
-    "База/События",
-    "_technical/_templates/_video.md",
-    "База/Источники/Текстовая версия расследования Казначей.md",
-    "База/Видео/Ответ ФБК на расследование Казначей.md",
-    "База/Источники/Текстовая версия ответа ФБК на расследование Казначей.md",
-    "_sources/Без названия.md",
-    "База/Источники/YouTube канал \"Максим Кац\".md",
-    "База/Источники/YouTube канал \"Навальный Live\".md",
-    "_databases"
+    "База/Сущности"
   ]
 }
